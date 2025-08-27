@@ -1,5 +1,10 @@
-students = ["Pupik", "Dupik", "Karatutik", "Owner", "Kissa"]
 
+
+# for - используется для списков
+
+
+
+students = ["Pupik", "Dupik", "Karatutik", "Owner", "Kissa"]
 
 # Проход по списку и печать каждого значения
 for f in students:
